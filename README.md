@@ -2,7 +2,7 @@
 
 # Minu Choi
 
-![Path to an image](qce2dp/SDS_Headshot.JPG)
+![Path to an image](SDS_Headshot.JPG)
 
 - Hometown: Seoul, South Korea
 - Hobbies: Baseball, Weightlifting
